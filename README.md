@@ -44,13 +44,9 @@
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
-
-[![](https://komarev.com/ghpvc/?username=YaswanthKalis&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # 🌐 Connect
