@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-## Welcome!
+## Welcome to my page!
 **Sophomore @BIT'29 — Artificial Intelligence & Data Science**
 
 - 🌱 Learning **C++, Python, SQL, DSA & Machine Learning**
