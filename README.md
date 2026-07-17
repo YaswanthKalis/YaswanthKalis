@@ -24,9 +24,14 @@
 
 </td>
 
-<td width="40%" align="right">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif/Coding.gif" width="320"/>
 </td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="pic.png" width="500"/>
+
+</td>
+
 </tr>
 </table>
 
