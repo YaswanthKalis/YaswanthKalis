@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-## Welcome to my page!
+## Welcome!
 **Sophomore @BIT'29 — Artificial Intelligence & Data Science**
 
 - 🌱 Learning **C++, Python, SQL, DSA & Machine Learning**
@@ -25,7 +25,7 @@
 </tr>
 </table>
 
----
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
 
 # 💻 Tech Stack
 
@@ -34,7 +34,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
 </p>
 
----
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=YaswanthKalis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=YaswanthKalis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YaswanthKalis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
+
+[![](https://komarev.com/ghpvc/?username=YaswanthKalis&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 # 🌐 Connect
 
