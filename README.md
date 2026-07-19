@@ -30,8 +30,19 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,py,c,mysql,html,css,git,github,vscode" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="48"/>
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" height="48"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+       title="Pandas"
+       alt="Pandas"
+       height="48"/>
 </p>
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
@@ -48,19 +59,28 @@
 
 <img src="https://gradient-svg-generator.vercel.app/api/svg?text=%20&template=hologram-blue&height=4&color0=0D1117&color1=2563EB&color2=06B6D4&gradientType=horizontal&duration=4s" width="100%"/>
 
-
 # 🌐 Connect
 
 <p align="center">
-<a href="https://github.com/YaswanthKalis"><img src="https://skillicons.dev/icons?i=github" height="48" style="margin: 0 8px;"/></a>
-<a href="https://www.linkedin.com/in/yaswanth-kalis-p"><img src="https://skillicons.dev/icons?i=linkedin" height="48" style="margin: 0 8px;"/></a>
-<a href="mailto:kalisyaswanth@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" style="margin: 0 8px;"/></a>
-<a href="https://leetcode.com/u/Yaswanth_Kalis/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48" style="margin: 0 8px;" />
-</a>
-<a href="https://www.hackerrank.com/profile/kalisyaswanth" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48" style="margin: 0 8px;"/>
-</a>
+  <a href="https://github.com/YaswanthKalis" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/yaswanth-kalis-p" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+
+  <a href="mailto:kalisyaswanth@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Yaswanth_Kalis/" target="_blank" title="LeetCode">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/kalisyaswanth" target="_blank" title="HackerRank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
+  </a>
 </p>
 
 <p align="center">
