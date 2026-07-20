@@ -87,6 +87,13 @@
 <img src="https://komarev.com/ghpvc/?username=YaswanthKalis&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaswanthKalis/YaswanthKalis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaswanthKalis/YaswanthKalis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YaswanthKalis/YaswanthKalis/output/pacman-contribution-graph.svg">
+</picture>
+
+
 > Learn continuously. Build consistently. Grow endlessly.
 
 <p align="center">
